@@ -35,7 +35,7 @@
 
         <Border Grid.Row="0" Grid.Column="1" Background="DodgerBlue"/>
 
-        <Border Grid.Row="1" Grid.Column="0" Background="DeepPink">
+        <Border Grid.Row="1" Grid.Column="0" Background="LightGreen">
             <StackPanel>
                 <Button Content="Plus" Click="Button_Click_1"/>
                 <Button Content="Minus" Click="Button_Click_2"/>
